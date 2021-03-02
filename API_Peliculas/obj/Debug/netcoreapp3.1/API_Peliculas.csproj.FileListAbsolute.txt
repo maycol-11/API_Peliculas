@@ -47,8 +47,10 @@ C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\bin\Debug\netcoreapp3.1\API_P
 C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\bin\Debug\netcoreapp3.1\API_Peliculas.dll
 C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\bin\Debug\netcoreapp3.1\API_Peliculas.pdb
 C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\obj\Debug\netcoreapp3.1\API_Peliculas.csproj.CoreCompileInputs.cache
-C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\obj\Debug\netcoreapp3.1\API_Peliculas.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\obj\Debug\netcoreapp3.1\API_Peliculas.dll
 C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\obj\Debug\netcoreapp3.1\API_Peliculas.pdb
 C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\obj\Debug\netcoreapp3.1\API_Peliculas.genruntimeconfig.cache
+C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\obj\Debug\netcoreapp3.1\API_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\obj\Debug\netcoreapp3.1\API_Peliculas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mayco\Desktop\API_Peliculas\API_Peliculas\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
