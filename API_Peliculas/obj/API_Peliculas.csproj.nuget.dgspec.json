@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mayco\\Desktop\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj": {}
+    "C:\\Users\\mayco\\Desktop\\Nueva carpeta\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mayco\\Desktop\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj": {
+    "C:\\Users\\mayco\\Desktop\\Nueva carpeta\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mayco\\Desktop\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj",
+        "projectUniqueName": "C:\\Users\\mayco\\Desktop\\Nueva carpeta\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj",
         "projectName": "API_Peliculas",
-        "projectPath": "C:\\Users\\mayco\\Desktop\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj",
+        "projectPath": "C:\\Users\\mayco\\Desktop\\Nueva carpeta\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj",
         "packagesPath": "C:\\Users\\mayco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mayco\\Desktop\\API_Peliculas\\API_Peliculas\\obj\\",
+        "outputPath": "C:\\Users\\mayco\\Desktop\\Nueva carpeta\\API_Peliculas\\API_Peliculas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

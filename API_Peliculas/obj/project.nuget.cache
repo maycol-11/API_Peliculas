@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AusjANTV3lSsrLEPEUSN9v3XgkwSxFIFNffzdCBKoQFkqpRQp3Rcro1DFFO9vaDHiF9raevSGz3i3dqGh/kVag==",
+  "dgSpecHash": "nUq5M6wE9cpO59epMP038m/Y1uSU6/rjdxSwaDlqZ/jcVknvZvj8xSJJt8dxIZ2yDwYCIsiKFm/zNoziK2K81A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mayco\\Desktop\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj",
+  "projectFilePath": "C:\\Users\\mayco\\Desktop\\Nueva carpeta\\API_Peliculas\\API_Peliculas\\API_Peliculas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mayco\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\mayco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

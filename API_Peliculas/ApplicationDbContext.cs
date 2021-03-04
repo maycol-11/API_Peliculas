@@ -14,5 +14,6 @@ namespace API_Peliculas
         }
 
         public DbSet<Genero> Generos { get; set; }
+        public DbSet<Actor> Actores { get; set; }
     }
 }

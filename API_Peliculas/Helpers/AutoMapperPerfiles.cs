@@ -12,8 +12,13 @@ namespace API_Peliculas.Helpers
     {
         public AutoMapperPerfiles()
         {
+            //Mapper entidad Genero
             CreateMap<Genero, GeneroDTO>().ReverseMap();
             CreateMap<GeneroCreacionDTO, Genero>();
+
+            //Mapper entidad Actor
+            CreateMap<Actor, ActorDTO>().ReverseMap();
+            CreateMap<ActorCreacionDTO, Actor>();
         }
     }
 }

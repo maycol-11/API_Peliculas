@@ -37,12 +37,12 @@ namespace API_Peliculas.Controllers
         [HttpGet("{id:int}", Name = "obtenerGenero")]
         public async Task<ActionResult<GeneroDTO>> Get(int id) 
         {
-            var entidades = await context.Generos.FirstOrDefaultAsync(x => x.Id == id);
+            var entidad = await context.Generos.FirstOrDefaultAsync(x => x.Id == id);
 
-            if (entidades == null)
+            if (entidad == null)
                 return NotFound();
 
-            var dto = mapper.Map<GeneroDTO>(entidades);
+            var dto = mapper.Map<GeneroDTO>(entidad);
             return dto;
 
         }
